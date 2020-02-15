@@ -13,7 +13,7 @@ namespace ex._21_30
             Console.Write("Number 2 = ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Number 3 =");
+            Console.Write("Number 3 = ");
             int num3 = Convert.ToInt32(Console.ReadLine());
 
             while (true)
@@ -38,21 +38,16 @@ namespace ex._21_30
                     default: ex21(num1, num2, num3); break;
                 }
             }
-            static void ex21(int num1,int num2,int num3)
+            static void ex21(int num1, int num2, int num3)
             {
                 Console.WriteLine("Exercise 21.");
                 Console.ResetColor();
 
                 int max = num1;
 
-                if (num2 > max)
-                {
-                    max = num2;
-                }
-                if (num3 > max)
-                {
-                    max = num3;
-                }
+                if (num2 > max) max = num2;
+                if (num3 > max) max = num3;
+
                 Console.WriteLine($"Maximum: {max}");
             }
             static void ex22(int num1, int num2, int num3)
@@ -62,14 +57,9 @@ namespace ex._21_30
 
                 int min = num1;
 
-                if (num2 < min)
-                {
-                    min = num2;
-                }
-                if (num3 < min)
-                {
-                    min = num3;
-                }
+                if (num2 < min) min = num2;
+                if (num3 < min) min = num3;
+
                 Console.WriteLine($"Minimum: {min}");
             }
             static void ex23(int num1, int num2, int num3)
@@ -81,7 +71,7 @@ namespace ex._21_30
                 {
                     Console.WriteLine(true);
                 }
-                else { Console.WriteLine(false); }
+                else Console.WriteLine(false); 
 
             }
             static void ex24(int num1, int num2, int num3)
@@ -89,7 +79,8 @@ namespace ex._21_30
                 Console.WriteLine("Exercise 24.");
                 Console.ResetColor();
 
-                Console.WriteLine("Soon...");
+                if (num1 == 2 && num2 == 2 || num1 == 2 && num3 == 2 || num2 == 2 && num3 == 2) Console.WriteLine(true);
+                else Console.WriteLine(false);
 
             }
             static void ex25(int num1, int num2, int num3)
@@ -97,23 +88,27 @@ namespace ex._21_30
                 Console.WriteLine("Exercise 25.");
                 Console.ResetColor();
 
-                Console.WriteLine("Soon...");
-
+                if (num1 + num2 > num3 || num2 + num3 > num1 || num1 + num3 > num2)  Console.WriteLine(true);
+                else Console.WriteLine(false);
             }
             static void ex26(int num1, int num2, int num3)
             {
                 Console.WriteLine("Exercise 26.");
                 Console.ResetColor();
 
-                Console.WriteLine("Soon...");
-
+                if (num1 % 2 == 0 || num2 % 2 == 0 || num3 % 2 == 0) Console.WriteLine(1);
+                else Console.WriteLine(2);
             }
             static void ex27(int num1, int num2, int num3)
             {
                 Console.WriteLine("Exercise 27.");
                 Console.ResetColor();
 
-                Console.WriteLine("Soon...");
+                if (num1 - num2 == num2 - num3 || num1 - num3 == num3 - num2 || num2 - num1 == num1 - num3 ||  num2 - num3 == num3 - num1 || num3 - num1 == num1 - num2 ||  num3 - num2 == num2 - num1 )
+                {
+                    Console.WriteLine("True (Tv. Progresia)");
+                }
+                else Console.WriteLine(false);
 
             }
             static void ex28(int num1, int num2, int num3)
@@ -121,7 +116,11 @@ namespace ex._21_30
                 Console.WriteLine("Exercise 28.");
                 Console.ResetColor();
 
-                Console.WriteLine("Soon...");
+                if (num1 / num2 == num2 / num3 || num1 / num3 == num3 / num2 || num2 / num1 == num1 / num3 || num2 / num3 == num3 / num1 || num3 / num1 == num1 / num2 || num3 / num2 == num2 / num1)
+                {
+                    Console.WriteLine("True (Erk. Progresia)");
+                }
+                else Console.WriteLine(false);
 
             }
             static void ex29(int num1, int num2, int num3)
@@ -159,12 +158,13 @@ namespace ex._21_30
                 }
                 else if (num2 > num1 && num2 > num3)
                 {
-                    if (num1 > num3) Console.WriteLine($"{num2}, {num1}, {num3}"); 
+                    if (num1 > num3) Console.WriteLine($"{num2}, {num1}, {num3}");
                     else Console.WriteLine($"{num2}, {num3}, {num1}");
 
-                }else
+                }
+                else
                 {
-                    if (num1 > num2) Console.WriteLine($"{num3}, {num1}, {num2}"); 
+                    if (num1 > num2) Console.WriteLine($"{num3}, {num1}, {num2}");
                     else Console.WriteLine($"{num3}, {num2}, {num1}");
                 }
 

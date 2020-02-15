@@ -8,3 +8,4 @@ C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21-30.Assemb
 C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21-30.AssemblyInfo.cs
 C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21-30.dll
 C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21-30.pdb
+C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21-30.csprojAssemblyReference.cache

@@ -12,15 +12,15 @@ namespace lesson_2
             int miavor = num % 10;
             int tasnavor = num / 10 % 10;
             int haryuravor = num / 100 % 10;
-            int hazaravor = num / 1000 ;
+            int hazaravor = num / 1000;
             Console.WriteLine($"hazaravor: {hazaravor}, haryuravor:  {haryuravor}, tasnavor: {tasnavor}, miavor: {miavor}");
 
             int min = miavor;
-             if (tasnavor < min)
+            if (tasnavor < min)
             {
                 min = tasnavor;
             }
-             if (haryuravor < min)
+            if (haryuravor < min)
             {
                 min = haryuravor;
             }

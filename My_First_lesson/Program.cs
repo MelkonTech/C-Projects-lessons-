@@ -9,7 +9,7 @@ namespace My_First_lesson
         {
             {
                 Console.ForegroundColor = ConsoleColor.Cyan; // Փոխում ենք տեքստի գույնը կապույտ
-                Console.Write(">>> Order: "); 
+                Console.Write(">>> Order: ");
                 Console.ResetColor(); // Վերադարձնում ենք տեքստի գույնը սկզբնականին
                 Console.Write("Data");
                 Console.ForegroundColor = ConsoleColor.DarkGreen; // Փոխում ենք տեքստի գույնը մուգ կանաչ

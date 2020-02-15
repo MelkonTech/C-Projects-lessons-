@@ -47,7 +47,7 @@ namespace lesson_1
             }
 
             Console.WriteLine($"Minimum : {min}... Maximum : {max}");
-            Console.WriteLine($"Maximum by {max-min} is greater than minimum");
+            Console.WriteLine($"Maximum by {max - min} is greater than minimum");
 
         }
     }
