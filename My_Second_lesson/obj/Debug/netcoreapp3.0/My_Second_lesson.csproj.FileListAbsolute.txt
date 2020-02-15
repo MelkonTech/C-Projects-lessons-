@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.exe
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.deps.json
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.runtimeconfig.json
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.dll
+C:\Users\Dell\source\repos\Group\My_Second_lesson\bin\Debug\netcoreapp3.0\My_Second_lesson.pdb
+C:\Users\Dell\source\repos\Group\My_Second_lesson\obj\Debug\netcoreapp3.0\My_Second_lesson.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Group\My_Second_lesson\obj\Debug\netcoreapp3.0\My_Second_lesson.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Group\My_Second_lesson\obj\Debug\netcoreapp3.0\My_Second_lesson.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Group\My_Second_lesson\obj\Debug\netcoreapp3.0\My_Second_lesson.dll
+C:\Users\Dell\source\repos\Group\My_Second_lesson\obj\Debug\netcoreapp3.0\My_Second_lesson.pdb

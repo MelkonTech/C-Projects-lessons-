@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.exe
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.deps.json
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.runtimeconfig.json
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.dll
+C:\Users\Dell\source\repos\Group\My_First_lesson\bin\Debug\netcoreapp3.0\My_First_lesson.pdb
+C:\Users\Dell\source\repos\Group\My_First_lesson\obj\Debug\netcoreapp3.0\My_First_lesson.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Group\My_First_lesson\obj\Debug\netcoreapp3.0\My_First_lesson.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Group\My_First_lesson\obj\Debug\netcoreapp3.0\My_First_lesson.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Group\My_First_lesson\obj\Debug\netcoreapp3.0\My_First_lesson.dll
+C:\Users\Dell\source\repos\Group\My_First_lesson\obj\Debug\netcoreapp3.0\My_First_lesson.pdb
