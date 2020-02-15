@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.exe
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.deps.json
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.runtimeconfig.json
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.dll
+C:\Users\Dell\source\repos\Group\ex. 21\bin\Debug\netcoreapp3.0\ex. 21.pdb
+C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21.dll
+C:\Users\Dell\source\repos\Group\ex. 21\obj\Debug\netcoreapp3.0\ex. 21.pdb
