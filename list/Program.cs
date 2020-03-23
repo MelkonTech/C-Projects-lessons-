@@ -22,7 +22,7 @@ namespace list
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.Write("Enter lesson number(1-7) [default 1]:  ");
+                Console.Write("Enter lesson number(1-8) [default 1]:  ");
                 string lesson_number = Console.ReadLine();
 
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -35,6 +35,7 @@ namespace list
                     case "5": ex5(list, rnd); break;
                     case "6": ex6(list); break;
                     case "7": ex7(list); break;
+                    case "8": ex8(list); break;
 
                     default: ex1(list); break;
                 }
@@ -136,11 +137,30 @@ namespace list
         private static void ex7(List<int> list)
         {
             int i = 0;
+            List<int> newList = new List<int>(list.Count);
+            for (int j = 0; j < list.Count; j++)
+            {
+                newList.Add(list[j]);
+            }
+            while (i < newList.Count)
+            {
+                while (newList.FindAll(x => x == newList[i]).Count() > 1)
+                {
+                    newList.RemoveAt(newList.LastIndexOf(newList[i]));
+                }
+                i++;
+            }
+            printArray(list);
+        }
+
+        private static void ex8(List<int> list)
+        {
+            int i = 0;
             while (i < list.Count)
             {
-                while (list.FindAll(x => x == list[i]).Count() > 1)
+                while (list.FindAll(x => x == list[i]).Count() > 2)
                 {
-                    list.RemoveAt(list.LastIndexOf(list[i]));
+                    list.RemoveAll(x => x == list[i]);
                 }
                 i++;
             }
