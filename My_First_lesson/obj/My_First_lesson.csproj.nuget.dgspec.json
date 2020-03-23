@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\Group\\My_First_lesson\\My_First_lesson.csproj": {}
+    "C:\\Users\\Dell\\Documents\\Group\\My_First_lesson\\My_First_lesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\Group\\My_First_lesson\\My_First_lesson.csproj": {
+    "C:\\Users\\Dell\\Documents\\Group\\My_First_lesson\\My_First_lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Group\\My_First_lesson\\My_First_lesson.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\Group\\My_First_lesson\\My_First_lesson.csproj",
         "projectName": "My_First_lesson",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Group\\My_First_lesson\\My_First_lesson.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\Group\\My_First_lesson\\My_First_lesson.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Group\\My_First_lesson\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\Group\\My_First_lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

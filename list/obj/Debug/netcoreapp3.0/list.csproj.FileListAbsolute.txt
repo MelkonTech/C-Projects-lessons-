@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.exe
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.deps.json
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.runtimeconfig.json
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.dll
+C:\Users\Dell\Documents\Group\list\bin\Debug\netcoreapp3.0\list.pdb
+C:\Users\Dell\Documents\Group\list\obj\Debug\netcoreapp3.0\list.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Group\list\obj\Debug\netcoreapp3.0\list.AssemblyInfo.cs
+C:\Users\Dell\Documents\Group\list\obj\Debug\netcoreapp3.0\list.dll
+C:\Users\Dell\Documents\Group\list\obj\Debug\netcoreapp3.0\list.pdb
+C:\Users\Dell\Documents\Group\list\obj\Debug\netcoreapp3.0\list.csprojAssemblyReference.cache

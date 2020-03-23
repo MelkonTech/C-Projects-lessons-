@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\Group\\ex. 21\\ex. 21-30.csproj": {}
+    "C:\\Users\\Dell\\Documents\\Group\\ex. 21\\ex. 21-30.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\Group\\ex. 21\\ex. 21-30.csproj": {
+    "C:\\Users\\Dell\\Documents\\Group\\ex. 21\\ex. 21-30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Group\\ex. 21\\ex. 21-30.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\Group\\ex. 21\\ex. 21-30.csproj",
         "projectName": "ex. 21-30",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Group\\ex. 21\\ex. 21-30.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\Group\\ex. 21\\ex. 21-30.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Group\\ex. 21\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\Group\\ex. 21\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
