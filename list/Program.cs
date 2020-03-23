@@ -15,7 +15,7 @@ namespace list
             Console.Write("[ ");
             for (int i = 0; i < n; i++)
             {
-                list.Add(rnd.Next(50, 55));
+                list.Add(rnd.Next(0, 11));
                 Console.Write($"{list[i]},");
             }
             Console.WriteLine(" ]");
@@ -32,6 +32,7 @@ namespace list
                     case "2": ex2(list); break;
                     case "3": ex3(list); break;
                     case "4": ex4(list); break;
+                    case "5": ex5(list, rnd); break;
                     default: ex1(list); break;
                 }
             }
@@ -97,6 +98,27 @@ namespace list
             }
             numbers.Sort((x, y) => x.CompareTo(y));
             numbers.Insert(0, list[0]);
+            printArray(numbers);
+            numbers.Sort((x, y) => x.CompareTo(y));
+            printArray(numbers);
+        }
+
+        private static void ex5(List<int> list, Random rnd)
+        {
+            List<int> numbers = new List<int>();
+
+            int n = rnd.Next(0, list.Count);
+
+            for (int i = 1; i < n; i++)
+            {
+                numbers.Add(list[i]);
+            }
+            for (int i = n + 1; i < list.Count; i++)
+            {
+                numbers.Add(list[i]);
+            }
+            numbers.Sort((x, y) => x.CompareTo(y));
+            numbers.Insert(n, list[n]);
             printArray(numbers);
             numbers.Sort((x, y) => x.CompareTo(y));
             printArray(numbers);
